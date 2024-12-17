@@ -5,6 +5,10 @@
 body {
   background-color: #fdfdfd;
   color: #0d0d0d;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
 }
 
 /* HEADER */
@@ -42,6 +46,7 @@ section {
 
 .homeText {
   width: 50%;
+  text-align: center;
 }
 
 .homeImg {
